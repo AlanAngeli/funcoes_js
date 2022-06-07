@@ -7,7 +7,7 @@ function returnEvenValues(array) {
         }
 
     }
-    console.log(evenNums);
+    console.log('Os números pares são: ', evenNums);
 }
 
 let array = [1, 2, 4, 5, 7, 8]
